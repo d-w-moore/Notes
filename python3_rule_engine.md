@@ -21,7 +21,4 @@ master builds of externals:
   for each system python to be supported (3.4 - 3.9):
     cp user-config.jam to $HOME dir ; use sed to set 2nd python config field path (pkg-config can provide this)
 ```
-Detailed approach in this [GIST](
-
-https://gist.github.com/d-w-moore/0d98dae0bc5452deddb1719a99072f16
-)
+Detailed approach in this [GIST](https://gist.github.com/d-w-moore/0d98dae0bc5452deddb1719a99072f16)
